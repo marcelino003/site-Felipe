@@ -11982,7 +11982,7 @@ html:not(.lt-ie10) .not-animated {
 
 .rd-navbar-fixed .rd-navbar-brand {
   position: fixed;
-  top: 17px;
+  /* top: 17px; */
   left: 64px;
   z-index: 17;
   display: block;
